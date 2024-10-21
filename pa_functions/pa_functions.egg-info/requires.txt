@@ -1,8 +1,0 @@
-pandas
-numpy
-requests
-gspread
-google-auth
-google-api-python-client
-seaborn
-matplotlib
